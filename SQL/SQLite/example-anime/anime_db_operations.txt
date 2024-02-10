@@ -1,0 +1,118 @@
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 3
+===========================================================================
+(1, 'attack on titan', 2013, 10)
+===========================================================================
+
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 1
+===========================================================================
+enter the anime id: 2  
+enter the anime name: one piece
+enter the anime release year: 1999
+enter the anime rating: 10
+===========================================================================
+
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 2
+===========================================================================
+enter the character id: 1  
+enter the anime id: 1
+enter the character name: eren yeager
+enter the role: protagonist
+===========================================================================
+
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 4
+===========================================================================
+(1, 1, 'eren yeager', 'protagonist')
+===========================================================================
+
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 2
+===========================================================================
+enter the character id: 2
+enter the anime id: 2
+enter the character name: moneky D luffy
+enter the role: protagonist
+===========================================================================
+
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 4
+===========================================================================
+(1, 1, 'eren yeager', 'protagonist')
+(2, 2, 'moneky D luffy', 'protagonist')
+===========================================================================
+
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 3
+===========================================================================
+(1, 'attack on titan', 2013, 10)
+(2, 'one piece', 1999, 10)
+===========================================================================
+
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 5
+===========================================================================
+enter the custom queryselect anime_id,rating from  anime
+(1, 10)
+(2, 10)
+===========================================================================
+
+Menu
+1. Add Anime
+2. Add Character
+3. View Anime Table
+4. View Character Table
+5. Custom Query
+0. Exit
+Enter your choice: 0
+===========================================================================
